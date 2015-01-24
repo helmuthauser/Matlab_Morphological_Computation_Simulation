@@ -6,7 +6,7 @@
 % http://www.springerlink.com/content/j236312507300638/
 %
 % 
-%hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
 
 
 close all;

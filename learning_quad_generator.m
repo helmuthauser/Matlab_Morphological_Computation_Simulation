@@ -6,7 +6,7 @@
 % Biological Cybernetics, Springer Berlin / Heidelberg, 2012, 106, 595-613
 % http://www.springerlink.com/content/d54t39qh28561271/
 
-% hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
 
  
 close all;

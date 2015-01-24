@@ -12,7 +12,7 @@ function [net_after,sim_data] = simulate_ms_sys (net,input,output)
 %  		 sim_data  	data structure with all data harvested during simulation
 %  
 % 
-% hhauser@ifi.uzh.ch
+%  helmut.hauser@bristol.ac.uk
 %
 %  [1] Hauser, H.; Ijspeert, A.; Füchslin, R.; Pfeifer, R. & Maass, W.
 %  "Towards a theoretical foundation for morphological computation with compliant bodies"

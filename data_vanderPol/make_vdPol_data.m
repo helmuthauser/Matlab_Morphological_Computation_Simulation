@@ -2,7 +2,7 @@
 % can be adapated to make your own 
 % limit cycle data set
 %
-% hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
 close all;
 
 

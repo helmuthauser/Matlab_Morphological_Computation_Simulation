@@ -6,7 +6,7 @@ function [W,linear_output]= learn_linear_model(input,output)
 % output = a*input + b
 % as vector W
 % 
-% hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
 
 
 X = horzcat(input,ones(length(input),1));  

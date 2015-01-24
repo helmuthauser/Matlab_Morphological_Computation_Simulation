@@ -22,7 +22,7 @@ Feel free to use the tutorial as a basis for Matlab coding class for your studen
 
 If you have any troubles using the code or if you find a bug, please, let me know.
 
-hhauser@ifi.uzh.ch
+helmut.hauser@bristol.ac.uk
 
 Enjoy and have a great day!
 Helmut

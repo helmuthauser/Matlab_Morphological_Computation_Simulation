@@ -7,7 +7,7 @@ function [x_]=nth_point(x,nth)
 %
 % used for the function plot_one_period
 %
-% hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
 
 if(size(x,2)>size(x,1))
 	x=x';

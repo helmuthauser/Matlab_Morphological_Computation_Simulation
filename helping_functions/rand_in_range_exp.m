@@ -9,7 +9,7 @@ function n = rand_in_range_EXP(range,a)
 %  
 % output: n either one value or vector of random values 
 %
-% hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
 
  range(:);
  up = range(1,2);

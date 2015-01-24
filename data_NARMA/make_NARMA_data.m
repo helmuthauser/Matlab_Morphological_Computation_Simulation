@@ -3,7 +3,7 @@
 %  "Adaptive Control Using Neural Networks and Approximate Models" 
 %  IEEE TRANSACTIONS ON NEURAL NETWORKS, 1997, 8, 475-485
 % 
-% hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
 
 close all;
 clear all;

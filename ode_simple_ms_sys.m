@@ -9,7 +9,7 @@ function x_new = ode_simple_ms_sys(time_step,x,u)
 %  x(3) = x_dot
 %  x(4) = y_dot
 %
-% hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
 
 % first system x-dimension
 x_new(1) = time_step*x(3) + x(1);   

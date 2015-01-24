@@ -12,7 +12,7 @@ function [x_new] = ode_van_der_Pol_sd(x,epsilon,dt,u)
 % This code can be easily adapted to produce data for your own nonlinear
 % limit cycles
 %
-% hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
 
 
 % if there is no input defined, set it to zero

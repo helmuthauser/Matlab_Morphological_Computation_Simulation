@@ -4,7 +4,7 @@ function [] = plot_graph(net)
 %  
 % net:  network to plot
 %
-% hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
 
 MARKERSIZE = 15;
 LINEWIDTH = 1;

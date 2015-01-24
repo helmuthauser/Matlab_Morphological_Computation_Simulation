@@ -3,7 +3,7 @@ function f = rhs_mass_sym(t,x,xd,F);
 % used with rk4ode (runge kutta 4th order for
 % two dimensional systems)
 %
-%  hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
  
 % 
 m=1; 

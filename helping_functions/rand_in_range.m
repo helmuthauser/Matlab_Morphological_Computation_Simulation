@@ -7,7 +7,7 @@ function n = rand_in_range(range,a)
 % output: n     either one random value or a column vector of random values 
 %  				and size a
 % 
-% hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
 
  range(:);
  up = range(1,2);

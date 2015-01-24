@@ -1,5 +1,5 @@
- % learning pendulum equation
- 
+% learning pendulum equation
+% helmut.hauser@bristol.ac.uk 
  
  % load data
 close all;

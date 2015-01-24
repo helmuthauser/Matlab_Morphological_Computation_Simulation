@@ -2,6 +2,9 @@
 % W_out=X\Yw;W_out=X\Yw;tr_dattr_dattr_datrewrite volterra series
 % making data with gauss kernel with mu not being at zero
 % which means there is a delay
+%
+% helmut.hauser@bristol.ac.uk
+
 
 clear all;
 close all;

@@ -7,7 +7,7 @@ function [sim_data] = step_response(net,len,factor,show_plot)
 %						factor = 0 		input is IMPULSE response
 %			[show_plot]	showing plots of the result [optional] - default is yes
 %
-% helmut.hauser@igi.tugraz.at
+% helmut.hauser@bristol.ac.uk
 % 13th Jan. 2009
 % adapted: multiple inputs are now possible
 %

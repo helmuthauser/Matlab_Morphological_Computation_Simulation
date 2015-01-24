@@ -2,7 +2,7 @@ function [d,norm_dir]= e_distance(p1,p2)
 %
 % calculate euclidian distance between to 2D points
 % 
-% hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
 
 d = sqrt(  (p2(1,1)-p1(1,1))* (p2(1,1)-p1(1,1)) +  (p2(2,1)-p1(2,1))* (p2(2,1)-p1(2,1)));
 if (d==0)

@@ -11,7 +11,7 @@ function [F] = make_simulation_movie(net,d,SAVE_MOVIE,name)
 %  		NOTE:   movie2avi(F,filename,'fps',25) saves the file
 %				mencoder filename -ovc lavc -o filename_small.avi 	reduces the file size
 %
-% hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
 
 
 

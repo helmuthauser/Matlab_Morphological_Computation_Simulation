@@ -16,6 +16,8 @@ function [t,x,v] = rk4ode2(func, a, b, x0, xd0, h, F);
 %        h    = stepsize
 %
 % output [t, x, v]  = solution vectors
+%
+%  helmut.hauser@bristol.ac.uk
 
 t = [a];
 x = [x0];
