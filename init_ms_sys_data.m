@@ -15,7 +15,7 @@ function d = init_ms_sys_data()
 % Biological Cybernetics, Springer Berlin / Heidelberg, 2011, 105, 355-370 
 % http://www.springerlink.com/content/j236312507300638/
 %
-% hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
 
 
 

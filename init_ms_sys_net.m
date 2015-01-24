@@ -6,7 +6,7 @@ function net = init_ms_sys_net(d)
 %  							(see init_ms_sys_data in same directory)%
 %   output: net				ready to simulate mass-spring net
 %  
-% hhauser@ifi.uzh.ch
+% helmut.hauser@bristol.ac.uk
 % for more info see paper
 %  
 % Hauser, H.; Ijspeert, A.; Füchslin, R.; Pfeifer, R. & Maass, W.
